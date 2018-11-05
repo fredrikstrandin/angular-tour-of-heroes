@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "angular-tour-of-heroes", "angular-tour-of-heroes\angular-tour-of-heroes.csproj", "{44D0EFB0-45C0-4E7B-979B-B3AAA21D216C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44D0EFB0-45C0-4E7B-979B-B3AAA21D216C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D0EFB0-45C0-4E7B-979B-B3AAA21D216C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D0EFB0-45C0-4E7B-979B-B3AAA21D216C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D0EFB0-45C0-4E7B-979B-B3AAA21D216C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74EF5256-0E5F-4A08-8D70-91898BCF9F52}
+	EndGlobalSection
+EndGlobal
